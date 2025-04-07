@@ -32,7 +32,8 @@ Here are some of the technologies I work with:
 
 I'm currently working on a few interesting projects, such as:
 
-- **Horse Riding Club Management System** - A system to manage stables, bookings, and subscriptions.
+- **Horse Riding Club Management System** - A comprehensive platform to efficiently manage stables, horses, customer profiles, bookings, and event planning, all in one place.
+  
 - **RC Car** - I’m working on a custom RC car that’s based on IoT and automation.
 
 ## 📚 Currently Learning
