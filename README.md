@@ -25,10 +25,24 @@ Here are some of the technologies I work with:
 - ![React Native](https://img.shields.io/badge/React_Native-61DAFB?logo=react&logoColor=black)
 - ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?logo=tailwindcss&logoColor=white)
 - ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
+- ![Fusion 360](https://img.shields.io/badge/Fusion%20360-2A2D32?logo=autodesk&logoColor=white)
+- ![SQL](https://img.shields.io/badge/SQL-003B57?logo=mysql&logoColor=white)
 
-## Projects
+## 🛠️ Projects
 
-I'm currently working on a few projects, e.g Horse Riding Club Management System and an RC car.
+I'm currently working on a few interesting projects, such as:
+
+- **Horse Riding Club Management System** - A system to manage stables, bookings, and subscriptions.
+- **RC Car** - I’m working on a custom RC car that’s based on IoT and automation.
+
+## 📚 Currently Learning
+
+I’m actively focusing on improving my skills in the following areas:
+
+- **Data Structures & Algorithms** - Practicing and deepening my understanding of essential data structures and algorithms to improve problem-solving skills.
+- **Machine Learning** - Expanding my expertise in machine learning, particularly deep learning with TensorFlow.
+- **Cybersecurity** - Learning about security principles, ethical hacking, penetration testing, and securing applications and networks.
+
 
 ## Contact
 
