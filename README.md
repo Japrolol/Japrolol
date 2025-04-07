@@ -1,16 +1,31 @@
-## Hi there 👋
+Welcome to my GitHub page! I'm Jakub Herma, 17 years old, and passionate about coding, learning new technologies, and having fun with memes. Below you'll find some cool stuff including memes and daily quotes. Enjoy!
 
-<!--
-**Japrolol/Japrolol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
+- **Name:** Jakub Herma
+- **Age:** 17
+- **Interests:** Coding, Technology, IoT, AI & ML, Gaming, Basketball, Learning, and more!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Daily Quotes
+
+Get inspired with a new quote every day:
+
+<iframe src="https://www.brainyquote.com/link/quotebr.rss" width="100%" height="200" frameborder="0"></iframe>
+
+## Projects
+
+I'm currently working on a few projects, e.g Horse Riding Club Management System and an RC car.
+
+## Contact
+
+Feel free to reach out to me!
+
+- **Email:** [Jakub@timecue.eu](mailto:jakub@timecue.eu)
+
+## License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
+
+---
+
+Thanks for visiting my GitHub page! Have a great day!
