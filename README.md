@@ -21,7 +21,6 @@ Here are some of the technologies I work with:
 - ![C++](https://img.shields.io/badge/C%2B%2B-00599C?logo=cplusplus&logoColor=white)
 - ![ESP32](https://img.shields.io/badge/ESP32-000000?logo=espressif&logoColor=white)
 - ![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-A22846?logo=raspberrypi&logoColor=white)
-- ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white)
 - ![React Native](https://img.shields.io/badge/React_Native-61DAFB?logo=react&logoColor=black)
 - ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?logo=tailwindcss&logoColor=white)
 - ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
