@@ -11,6 +11,7 @@ Welcome to my GitHub page! I'm Jakub Herma, 17 years old, and passionate about c
 Here are some of the technologies I work with:
 
 - ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white)
+- ![PyTorch](https://img.shields.io/badge/SQL-003B57?logo=pytorch&logoColor=white)
 - ![Flask](https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white)
 - ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 - ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
@@ -40,7 +41,7 @@ I'm currently working on a few interesting projects, such as:
 I’m actively focusing on improving my skills in the following areas:
 
 - **Data Structures & Algorithms** - Practicing and deepening my understanding of essential data structures and algorithms to improve problem-solving skills.
-- **Machine Learning** - Expanding my expertise in machine learning, particularly deep learning with TensorFlow.
+- **Machine Learning** - Expanding my expertise in machine learning, particularly deep learning with PyTorch (transitioning from TensorFlow).
 - **Cybersecurity** - Learning about security principles, ethical hacking, penetration testing, and securing applications and networks.
 
 
