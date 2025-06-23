@@ -10,7 +10,6 @@ Welcome to my GitHub page! I'm Jakub Herma, 17 years old, and passionate about c
 
 Here are some of the technologies I work with:
 
-- ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white)
 - ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 - ![Flask](https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white)
 - ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
